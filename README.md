@@ -15,3 +15,9 @@ Tesla vehicles have had a history of fatal accidents when in autopilot due to be
 
 ## Gantt Chart
 ![Gantt Chart](./images/gantt_chart.png)
+
+## Hardware
+
+## Schematic
+
+## Software
