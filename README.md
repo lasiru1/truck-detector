@@ -10,6 +10,9 @@ Myat Ei Mon - "Amy" (Mechanical & Aerospace Engineering)
 Uriel Salazar - "Uri" (Electrical & Computer Engineering)  
 Hongyuan Zhang - "Ray" (Mechanical & Aerospace Engineering)  
 
+## Demo
+**insert YouTube link here...**
+
 ## Abstract
 Tesla vehicles have had a history of fatal accidents when in autopilot due to being unable to recognize semi trucks. Semi trucks bypass the image recognition system in the autopilot system and results in head-on collisions. Our proposed Vehicle Identification & Alarm System will identify images of vehicles along the track by adding a speaker and announcing the vehicle type: "Semi Truck Detected," "Bus Detected," "SUV Detected," "Sedan Detected," etc. 
 
