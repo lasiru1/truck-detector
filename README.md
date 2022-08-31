@@ -24,6 +24,7 @@ Tesla vehicles have had a history of fatal accidents when in autopilot due to be
 
 ## Hardware
 ##### Camera Mount
+> This design is meant to hold a camera and lider on top. 
 <img src="./images/CameraMount_Frontv2.jpg" width="500" height="400"> <img src="./images/CameraMount_Back.jpg"  width="500" height="400">
 
 ##### Bast Plate
