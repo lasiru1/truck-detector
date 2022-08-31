@@ -23,13 +23,13 @@ Tesla vehicles have had a history of fatal accidents when in autopilot due to be
 ![ Flow Chart](./images/flow_chart_v1.png)
 
 ## Hardware
-### Camera Mount
+##### Camera Mount
 <img src="./images/CameraMount_Frontv2.jpg"  width="500" height="400"> <img src="./images/CameraMount_Back.jpg"  width="500" height="400">
 
-###### Bast Plate
+##### Bast Plate
 <img src="./images/BasePlate_v2.jpg" width="500" height="400">
 
-###### Jetson Nano Case 
+##### Jetson Nano Case 
 <img src="./images/JetsonNanoCase_Top.jpg" width="400" height="300"> <img src="./images/JetsonNanoCase_Bottom.jpg" width="400" height="300">
 
 ## Schematic
