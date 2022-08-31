@@ -23,10 +23,9 @@ Tesla vehicles have had a history of fatal accidents when in autopilot due to be
 ![ Flow Chart](./images/flow_chart_v1.png)
 
 ## Hardware
-<img src="./images/CameraMount_Frontv2.jpg"  width="500" height="400"> <img src="./images/CameraMount_Backv2.jpg"  width="500" height="400">
-![Camera Mount Front](./images/CameraMount_Frontv2.jpg) ![Camera Mount Back](./images/CameraMount_Back.jpg)
-![Base Plate](./images/BasePlate_v2.jpg)
-![Jetson Nano Case Top](./images/JetsonNanoCase_Top.jpg) ![Jetson Nano Case Botton](./images/JetsonNanoCase_Bottom.jpg)
+<img src="./images/CameraMount_Frontv2.jpg"  width="500" height="400"> <img src="./images/CameraMount_Back.jpg"  width="500" height="400">
+<img src="./images/BasePlate_v2.jpg" width="500" height="400">
+<img src="./images/JetsonNanoCase_Top.jpg" width="500" height="400"> <img src="./images/JetsonNanoCase_Bottom.jpg" width="500" height="400">
 
 ## Schematic
 
