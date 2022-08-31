@@ -30,7 +30,7 @@ Tesla vehicles have had a history of fatal accidents when in autopilot due to be
 <img src="./images/BasePlate_v2.jpg" width="500" height="400">
 
 ##### Jetson Nano Case 
-<img src="./images/JetsonNanoCase_Top.jpg" width="400" height="300"> <img src="./images/JetsonNanoCase_Bottom.jpg" width="400" height="300">
+<img src="./images/JetsonNanoCase_Top.jpg" > <img src="./images/JetsonNanoCase_Bottom.jpg" width="400" height="300">
 
 ## Schematic
 
