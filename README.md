@@ -23,7 +23,7 @@ Tesla vehicles have had a history of fatal accidents when in autopilot due to be
 ![ Flow Chart](./images/flow_chart.png)
 
 ## Hardware
-![Camera Mount] (./)
+![Camera Mount] (C:/Users/myate/OneDrive/Pictures/MAE148_CAD)
 ## Schematic
 
 ## Software
