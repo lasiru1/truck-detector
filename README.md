@@ -33,7 +33,7 @@ This design is meant to hold a camera and lider on top. <br/>
 <img src="./images/BasePlate_v2.jpg" width="500" height="400">
 
 ##### Case for Other Components
-<img src="./images/CaseComponent_Front.jpg" width="500" height="400"> <img src="./images/CaseComponents_Back.jpg" width="500" height="400">
+<img src="./images/CaseComponents_Front.jpg" width="500" height="400"> <img src="./images/CaseComponents_Back.jpg" width="500" height="400">
 
 ## Schematic
 
