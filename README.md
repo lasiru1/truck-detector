@@ -28,13 +28,12 @@ Tesla vehicles have had a history of fatal accidents when in autopilot due to be
 This design is meant to hold a camera and lider on top. <br/>
 
 <img src="./images/CameraMount_Frontv2.jpg" width="500" height="400"> <img src="./images/CameraMount_Back.jpg"  width="500" height="400">
-<img src="./images/CameraMount_Frontv2.jpg" width="500" height="400"> <img src="./images/CameraMount_Back.jpg"  width="500" height="400">
 
 ##### Bast Plate
 <img src="./images/BasePlate_v2.jpg" width="500" height="400">
 
 ##### Jetson Nano Case
-<img src="./images/JetsonNanoCase_Top.jpg" width="500" height="400"> <img src="./images/JetsonNanoCase_Bottom.jpg" width="500" height="400"> 
+<img src="./images/JetsonNanoCase_Top2.jpg" width="500" height="400"> <img src="./images/JetsonNanoCase_Bottom.jpg" width="500" height="400"> 
 
 ## Electrical Schematic
 ![Schematic](./images/MAE148_schematic.jpg)
