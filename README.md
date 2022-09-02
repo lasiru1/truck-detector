@@ -33,15 +33,23 @@ Tesla vehicles have had a history of fatal accidents when in autopilot due to be
 - Webcam
   - A camera installed at the side of our robot to detect the images. 
 - LiDAR
+  - LiDAR - "Light Detection and Ranging" - used for 3D laser scanning to detect the surface of the objects within a range, and measure the time for the reflected light to come back to the receiver. 
 - LiDAR Controller
+  - Receivd data from LiDAR, and send it to Jetson Nano. 
 - VESC
+  - Open source speed controller that basically tells the motor how hard to push and how strong to break. (https://spintend.com/blogs/news/whats-vesc-how-to-use-it-whats-difference-between-vesc-and-normal-esc#:~:text=It%20tells%20your%20motor%20how,that%20the%20motor%20operates%20safely.)
 - UBEC
+  - UBEC stands for "Universal Battery Eliminator Circuit" , a DC/DC converter, that converts high voltage to two lower output voltage channels. The detail features can be found here (https://www.flyingtech.co.uk/electronics/matek-ubec-duo-dual-outputs-4a-5v-512v-aux-control%E2%80%8B)
 - Battery
 - Switch
-- Servo
+- Servo Motor
+  - Electromechanical device that regulates speed by producing forces or torques depending on the input current and voltages
 - Brushless DC Motor
+  - Uses DC electric power supply to convert electrical energy to mechanical energy.
 - Button
+  - on/off
 - Battery alarm
+  - For alarm notice when battery is low.
 
 
 ## CAD Designs
