@@ -34,7 +34,7 @@ This design is meant to hold a camera and lider on top. <br/>
 
 ##### Jetson Nano Case
 <img src="./images/JetsonNanoCase_Top2.jpg" width="500" height="400">  <img src="./images/JetsonNanoCase_Bottom.jpg" width="500" height="400"> 
-![ JetsonNanoCase_Top](./images/JetsonNanoCase_Top2.jpg)
+
 ## Electrical Schematic
 ![Schematic](./images/MAE148_schematic.jpg)
 
