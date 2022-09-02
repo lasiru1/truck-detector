@@ -67,7 +67,7 @@ This design is meant to hold a camera and LiDAR on top. <br/>
 <img src="./images/JetsonNanoCase_Top2.jpg" width="500" height="400">  <img src="./images/JetsonNanoCase_Bottom.jpg" width="500" height="400"> 
 
 ## Electrical Schematic
-![Schematic](./images/MAE148_schematic.jpg)
+![Schematic](./images/Schematic148.jpg)
 
 ## Software
 
