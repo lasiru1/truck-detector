@@ -41,13 +41,13 @@ Tesla vehicles have had a history of fatal accidents when in autopilot due to be
 - UBEC
   - UBEC stands for "Universal Battery Eliminator Circuit" , a DC/DC converter, that converts high voltage to two lower output voltage channels. The detail features can be found here (https://www.flyingtech.co.uk/electronics/matek-ubec-duo-dual-outputs-4a-5v-512v-aux-control%E2%80%8B)
 - Battery
+  - Provides electrical power
 - Switch
 - Servo Motor
   - Electromechanical device that regulates speed by producing forces or torques depending on the input current and voltages
 - Brushless DC Motor
   - Uses DC electric power supply to convert electrical energy to mechanical energy.
 - Button
-  - on/off
 - Battery alarm
   - For alarm notice when battery is low.
 
