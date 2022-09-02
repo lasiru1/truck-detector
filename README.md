@@ -24,10 +24,27 @@ Tesla vehicles have had a history of fatal accidents when in autopilot due to be
 
 ## Hardware
 
+
 ### List of Components
+- NVIDIA Jetson Nano 
+  - A single-board computer (SBC) that delivers the power of AI to run multiple applications like image classification, object detection, segmentation, and speech process. (https://developer.nvidia.com/embedded/jetson-nano-developer-kit)
+- OAK_D camera
+  - A camera installed at the front of our robot to detect lane and drive autonomously. 
+- Webcam
+  - A camera installed at the side of our robot to detect the images. 
+- LiDAR
+- LiDAR Controller
+- VESC
+- UBEC
+- Battery
+- Switch
+- Servo
+- Brushless DC Motor
+- Button
+- Battery alarm
 
 
-### CAD Designs
+## CAD Designs
 
 ###### Camera Mount
 
