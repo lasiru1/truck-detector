@@ -36,5 +36,6 @@ This design is meant to hold a camera and lider on top. <br/>
 <img src="./images/CaseComponents_Front.jpg" width="500" height="400"> <img src="./images/CaseComponents_Back.jpg" width="500" height="400">
 
 ## Schematic
+![Schematic](./images/MAE148_schematic.jpg)
 
 ## Software
