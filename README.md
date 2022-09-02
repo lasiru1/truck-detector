@@ -14,7 +14,7 @@ Hongyuan Zhang - "Ray" (Mechanical & Aerospace Engineering)
 **insert YouTube link here...**
 
 ## Abstract
-Tesla vehicles have had a history of fatal accidents when in autopilot due to being unable to recognize semi trucks. Semi trucks bypass the image recognition system in the autopilot system and results in head-on collisions. Inspiring from the incidents of Tesla, our proposed Vehicle Identification & Alarm System will identify images of vehicles along the track by adding a speaker and announcing the vehicle type: "Semi Truck Detected," "Bus Detected," "SUV Detected," "Sedan Detected," etc. 
+Tesla vehicles have had a history of fatal accidents when in autopilot due to being unable to recognize semi trucks. Semi trucks bypass the image recognition system in the autopilot system and results in head-on collisions. Inspiring from the incidents of Tesla, our proposed Vehicle Identification & Alarm System will identify images of vehicles along the track by adding a speaker and announcing the vehicle type: "Semi Truck Detected," "Bus Detected," "SUV Detected," "Sedan Detected," etc. The purpose of this project is to utilize ROS2 (Robotic Operating System) and Docker containers to develop software, and incooperate them into the hardwares of donkey car such as NVIDIA Jetson Nano, OAK_D webcam to enable autonomous driving. And we also used YOLO (You Only Look Once) algorithm, a real-time object recognition algorithm, to classify and localize objects in a single frame. 
 
 ## Gantt Chart
 ![Gantt Chart](./images/gantt_chart.png)
@@ -23,16 +23,22 @@ Tesla vehicles have had a history of fatal accidents when in autopilot due to be
 ![ Flow Chart](./images/flow_chart_v1.png)
 
 ## Hardware
-##### Camera Mount
+
+### List of Components
+
+
+### CAD Designs
+
+###### Camera Mount
 
 This design is meant to hold a camera and lider on top. <br/>
 
 <img src="./images/CameraMount_Frontv2.jpg" width="500" height="400"> <img src="./images/CameraMount_Back.jpg"  width="500" height="400">
 
-##### Bast Plate
+###### Bast Plate
 <img src="./images/BasePlate_v2.jpg" width="500" height="400">
 
-##### Jetson Nano Case
+###### Jetson Nano Case
 <img src="./images/JetsonNanoCase_Top2.jpg" width="500" height="400">  <img src="./images/JetsonNanoCase_Bottom.jpg" width="500" height="400"> 
 
 ## Electrical Schematic
@@ -49,3 +55,10 @@ Our car will be able to use computer vision to detect, and follow the yellow lin
 
 ## Presentation
 https://docs.google.com/presentation/d/16iEh1bHuT3R_3_7SF7uTyubHSdH6euG_2twNoYl6GsI/edit#slide=id.p
+
+## Acknowledgement
+
+Speacial THANKS to our Professor and supportive TAs
+- Professor Jack Silberman
+- TA Ivan Ferrier
+- TA Dominic Nightingale
