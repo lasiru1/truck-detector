@@ -12,7 +12,7 @@ from tracker import *
 tracker = EuclideanDistTracker()
 
 # Initialize the videocapture object
-cap = cv2.VideoCapture('video.mp4')
+cap = cv2.VideoCapture('video/trucks_passing.mp4')
 input_size = 320
 
 # Detection confidence threshold
@@ -160,7 +160,7 @@ def realTime():
         # Set the input of the network
         net.setInput(blob)
         layersNames = net.getLayerNames()
-        outputNames = [(layersNames[i[0] - 1]) for i in net.getUnconnectedOutLayers()]
+        outputNames = [(layersNames[i - 1]) for i in net.getUnconnectedOutLayers()]
         # Feed data to the network
         outputs = net.forward(outputNames)
     
@@ -203,7 +203,7 @@ def realTime():
     cv2.destroyAllWindows()
 
 
-image_file = 'vehicle classification-image02.png'
+image_file = 'images/trucks.jpg'
 def from_static_image(image):
     img = cv2.imread(image)
 
